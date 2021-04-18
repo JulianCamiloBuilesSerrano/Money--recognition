@@ -1,0 +1,3 @@
+/mnt/d/Documentos/Vision artificial/Proyecto/Money--recognition/Proyect/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/Documentos/Vision artificial/Proyecto/Money--recognition/Proyect/build/CMakeFiles/edit_cache.dir
+/mnt/d/Documentos/Vision artificial/Proyecto/Money--recognition/Proyect/build/CMakeFiles/main.dir
